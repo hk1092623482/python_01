@@ -1,0 +1,15 @@
+2022-06-04T14:05:57.980506+0800 DEBUG demo_loguru 11 hello world
+2022-06-04T14:05:57.980506+0800 INFO demo_loguru 12 hello world
+2022-06-04T14:05:57.980506+0800 WARNING demo_loguru 13 hello world
+2022-06-04T14:05:57.980506+0800 SUCCESS demo_loguru 14 hello world
+2022-06-04T14:05:57.980506+0800 ERROR demo_loguru 15 hello world
+2022-06-04 at 14:10:09 DEBUG demo_loguru 11 hello world
+2022-06-04 at 14:10:09 INFO demo_loguru 12 hello world
+2022-06-04 at 14:10:09 WARNING demo_loguru 13 hello world
+2022-06-04 at 14:10:09 SUCCESS demo_loguru 14 hello world
+2022-06-04 at 14:10:09 ERROR demo_loguru 15 hello world
+2022-06-04 14:10:20 DEBUG demo_loguru 11 hello world
+2022-06-04 14:10:20 INFO demo_loguru 12 hello world
+2022-06-04 14:10:20 WARNING demo_loguru 13 hello world
+2022-06-04 14:10:20 SUCCESS demo_loguru 14 hello world
+2022-06-04 14:10:20 ERROR demo_loguru 15 hello world
